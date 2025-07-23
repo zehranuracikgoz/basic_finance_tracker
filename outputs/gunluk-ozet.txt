@@ -1,0 +1,224 @@
+Tarih: 2025-05-24
+Toplam Gelir: 4500.00₺
+Toplam Gider: 0.00₺
+Net Kar: 4500.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-05-25
+Toplam Gelir: 1200.00₺
+Toplam Gider: 0.00₺
+Net Kar: 1200.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-06-04
+Toplam Gelir: 5000.00₺
+Toplam Gider: 0.00₺
+Net Kar: 5000.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-06-05
+Toplam Gelir: 1500.00₺
+Toplam Gider: 8000.00₺
+Net Kar: -6500.00₺
+En Fazla Harcama Yapılan: Tedarik
+
+---------------------------
+
+Tarih: 2025-06-06
+Toplam Gelir: 3500.00₺
+Toplam Gider: 0.00₺
+Net Kar: 3500.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-06-07
+Toplam Gelir: 750.00₺
+Toplam Gider: 0.00₺
+Net Kar: 750.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-06-08
+Toplam Gelir: 1800.00₺
+Toplam Gider: 3500.00₺
+Net Kar: -1700.00₺
+En Fazla Harcama Yapılan: Reklam
+
+---------------------------
+
+Tarih: 2025-06-17
+Toplam Gelir: 2550.00₺
+Toplam Gider: 0.00₺
+Net Kar: 2550.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-06-18
+Toplam Gelir: 2900.00₺
+Toplam Gider: 0.00₺
+Net Kar: 2900.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-06-19
+Toplam Gelir: 6000.00₺
+Toplam Gider: 0.00₺
+Net Kar: 6000.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-06-28
+Toplam Gelir: 4200.00₺
+Toplam Gider: 0.00₺
+Net Kar: 4200.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-06-29
+Toplam Gelir: 0.00₺
+Toplam Gider: 500.00₺
+Net Kar: -500.00₺
+En Fazla Harcama Yapılan: ABC Ticaret
+
+---------------------------
+
+Tarih: 2025-07-08
+Toplam Gelir: 0.00₺
+Toplam Gider: 8000.00₺
+Net Kar: -8000.00₺
+En Fazla Harcama Yapılan: Diğer
+
+---------------------------
+
+Tarih: 2025-07-09
+Toplam Gelir: 4250.00₺
+Toplam Gider: 0.00₺
+Net Kar: 4250.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-07-10
+Toplam Gelir: 1800.00₺
+Toplam Gider: 400.00₺
+Net Kar: 1400.00₺
+En Fazla Harcama Yapılan: ABC Ticaret
+
+---------------------------
+
+Tarih: 2025-07-11
+Toplam Gelir: 500.00₺
+Toplam Gider: 1000.00₺
+Net Kar: -500.00₺
+En Fazla Harcama Yapılan: Muhasebe/Danışmanlık
+
+---------------------------
+
+Tarih: 2025-07-12
+Toplam Gelir: 800.00₺
+Toplam Gider: 0.00₺
+Net Kar: 800.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-07-14
+Toplam Gelir: 400.00₺
+Toplam Gider: 0.00₺
+Net Kar: 400.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-07-15
+Toplam Gelir: 0.00₺
+Toplam Gider: 15000.00₺
+Net Kar: -15000.00₺
+En Fazla Harcama Yapılan: Tedarik
+
+---------------------------
+
+Tarih: 2025-07-17
+Toplam Gelir: 300.00₺
+Toplam Gider: 0.00₺
+Net Kar: 300.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-07-18
+Toplam Gelir: 1200.00₺
+Toplam Gider: 0.00₺
+Net Kar: 1200.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-07-19
+Toplam Gelir: 15000.00₺
+Toplam Gider: 0.00₺
+Net Kar: 15000.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-07-20
+Toplam Gelir: 0.00₺
+Toplam Gider: 26000.00₺
+Net Kar: -26000.00₺
+En Fazla Harcama Yapılan: Tedarik
+
+---------------------------
+
+Tarih: 2025-07-21
+Toplam Gelir: 22100.00₺
+Toplam Gider: 0.00₺
+Net Kar: 22100.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-07-22
+Toplam Gelir: 27500.00₺
+Toplam Gider: 0.00₺
+Net Kar: 27500.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-08-01
+Toplam Gelir: 15500.00₺
+Toplam Gider: 0.00₺
+Net Kar: 15500.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-08-02
+Toplam Gelir: 5000.00₺
+Toplam Gider: 0.00₺
+Net Kar: 5000.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
+Tarih: 2025-08-05
+Toplam Gelir: 3500.00₺
+Toplam Gider: 0.00₺
+Net Kar: 3500.00₺
+En Fazla Harcama Yapılan: Harcama Yok
+
+---------------------------
+
